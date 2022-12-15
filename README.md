@@ -8,5 +8,5 @@
   -  https://www.linkedin.com/in/candela-meyer/
   -  ccandelameyer@gmail.com
 
-⚡ I consider myself passionate about constant learning, responsible, warm and I am attracted to challenges.
-⚡ I aspire to develop and glow up in my career towards digital.
+  ⚡ I consider myself passionate about constant learning, responsible, warm and I am attracted to challenges.
+  ⚡ I aspire to develop and glow up in my career towards digital.
