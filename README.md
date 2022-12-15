@@ -1,10 +1,10 @@
 ### Hi everybody 👋
 
-<!--
-**CandelaMeyer/CandelaMeyer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✨My name is Candela and you can call me Cande.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently studing Certified Tech Developer in Digital House
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
+🔭 I’m currently studing Certified Tech Developer at Digital House.
+📫 How to reach me:
+https://www.linkedin.com/in/candela-meyer/
+ccandelameyer@gmail.com
+⚡ I consider myself passionate about constant learning, responsible, warm and I am attracted to challenges.
+   I aspire to develop and glow up in my career towards digital.
