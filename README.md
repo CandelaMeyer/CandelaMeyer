@@ -8,7 +8,6 @@
 
 📩 How to reach me:
  - <a href="https://www.linkedin.com/in/candela-meyer/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
- - <a href="ccandelameyer@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
  ⚡ I consider myself passionate about constant learning, responsible, warm and I am attracted to challenges. I aspire to develop and glow up in my career towards digital.
 
